@@ -37,7 +37,6 @@ EOF
 - 🧠 Learning: **Advanced Hacking Techniques & AI/ML**
 - 🤝 Open To: **Collaboration on Open Source & Security Projects**
 - 💬 Ask Me About: **JavaScript, Python, Web Security, Penetration Testing**
-- � Reach Me: **[ENCRYPTED_CHANNEL]**
 - ⚡ Fun Fact: **I hack the system before coffee ☕ + 💻 = 🚀**
 
 
@@ -176,7 +175,7 @@ me.say_hi()
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## � HACKER_QUOTES
+## 🌌 HACKER_QUOTES
 
 <div align="center">
 
