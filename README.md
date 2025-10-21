@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 WELCOME TO THE MATRIX 💀
+# WELCOME TO MY PROFILE
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System+Administrator+%7C+Code+Breaker;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Penetration+Tester+%7C+Bug+Hunter;Building+The+Future+One+Line+At+A+Time...)](https://git.io/typing-svg)
 
@@ -147,8 +147,8 @@ me.say_hi()
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=serozr&repo=PROJECT_NAME&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://github.com/serozr/PROJECT_NAME)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=serozr&repo=PROJECT_NAME_2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://github.com/serozr/PROJECT_NAME_2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=serozr&repo=cyber-portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://github.com/serozr/cyber-portfolio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=serozr&repo=anti-gamemode&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://github.com/serozr/anti-gamemode)
 
 </div>
 
@@ -191,20 +191,6 @@ me.say_hi()
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## � CONTRIBUTION_GRAPH
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/serozr/serozr/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-## 👁️ VISITORS_LOG
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/serozr/count.svg)
 
 ```bash
 [████████████████████████████] 100% - Access Granted
