@@ -1,42 +1,91 @@
 <div align="center">
 
-# 👋 WELCOME TO MY PROFILE
+# 👋 Welcome to My Profile
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System+Administrator+%7C+Code+Breaker;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Penetration+Tester+%7C+Bug+Hunter;Building+The+Future+One+Line+At+A+Time...)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vcenter=true&width=600&lines=System+Administrator+%7C+Code+Breaker;Full+Stack+Developer;Cybersecurity+Enthusiast;Penetration+Tester;Building+Secure+Solutions...)
 
-
-## 🎯 FEATURED REPOSITORIES
-
-<div align="center">
-
-[![Cyber Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=serozr&repo=cyber-portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://github.com/serozr/cyber-portfolio)
-[![Anti Gamemode](https://github-readme-stats.vercel.app/api/pin/?username=serozr&repo=anti-gamemode&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://github.com/serozr/anti-gamemode)
+[![Profile Views](https://komarev.com/ghpvc/?username=serozr&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/serozr)
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+## 🚀 About Me
 
-<div align="center">
-
-**👤 Full Stack Developer | 🔐 Cybersecurity Enthusiast**
-
-</div>
-
-🎯 **Currently Working On:** Open Source & Security Projects  
-🧠 **Learning:** AI/ML & Advanced Security Techniques  
-💬 **Ask Me About:** JavaScript, Python, Web Security, Penetration Testing  
-🤝 **Open To:** Collaboration on Open Source Projects
+```typescript
+const serozr = {
+    role: "Full Stack Developer & Security Researcher",
+    location: "🌍 Remote",
+    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "Lua"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "Vue"],
+        backEnd: ["Node.js", "Express", "FastAPI"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        security: ["Penetration Testing", "Web Security", "Network Security"],
+        tools: ["Docker", "Git", "VS Code", "Burp Suite"]
+    },
+    currentFocus: "Open Source Security Projects",
+    learning: ["AI/ML", "Advanced Security Techniques", "Cloud Security"],
+    openToCollaborate: true
+};
+```
 
 ---
 
-## 📊 GITHUB STATS
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serozr&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serozr&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 💼 [Cyber Portfolio](https://github.com/serozr/cyber-portfolio)
+🟢 **Web Project** ⭐ 9
+> Professional cybersecurity portfolio website showcasing projects and skills.
+
+### 📦 [Anti-Gamemode](https://github.com/serozr/anti-gamemode)
+🔴 **mcfunction** ⭐ 4
+> A powerful Minecraft datapack that prevents unauthorized gamemode changes.
+
+
+[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serozr?tab=repositories)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=serozr&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serozr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/serozr)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/serodxr)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/serozr)
 
 </div>
 
@@ -46,7 +95,7 @@
 
 ### 💚 *"In a world of 1s and 0s, be the exception that throws the error."*
 
-⭐ **Star my repos if you find them useful!**
+⭐ **Star my repositories if you find them useful!**
 
 </div>
 
