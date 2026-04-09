@@ -54,7 +54,7 @@ const serozr = {
 <div align="center">
 
 ### 💼 [Cyber Portfolio](https://github.com/serozr/cyber-portfolio)
-🟢 **Web Project** ⭐ 15
+🟢 **Web Project** ⭐ 19
 > Professional cybersecurity portfolio website showcasing projects and skills.
 
 ### 📦 [Anti-Gamemode](https://github.com/serozr/anti-gamemode)
