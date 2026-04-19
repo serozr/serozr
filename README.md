@@ -57,9 +57,7 @@ const serozr = {
 🟢 **Web Project** ⭐ 19
 > Professional cybersecurity portfolio website showcasing projects and skills.
 
-### 📦 [Anti-Gamemode](https://github.com/serozr/anti-gamemode)
-🔴 **mcfunction** ⭐ 4
-> A powerful Minecraft datapack that prevents unauthorized gamemode changes.
+
 
 
 [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serozr?tab=repositories)
