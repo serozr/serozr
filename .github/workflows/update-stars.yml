@@ -1,0 +1,36 @@
+name: Update Stars Count
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Günde bir kez çalışır (UTC saat 00:00)
+  workflow_dispatch:     # Manuel çalıştırma için
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Update README with current stars
+        run: |
+          # Cyber Portfolio reponun yıldız sayısını al
+          STARS=$(curl -s "https://api.github.com/repos/serozr/cyber-portfolio" | jq '.stargazers_count')
+          
+          # README.md dosyasını güncelle
+          sed -i "s/⭐ [0-9]\+/⭐ $STARS/" README.md
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "🤖 chore: update stars count [skip ci]"
+            git push
