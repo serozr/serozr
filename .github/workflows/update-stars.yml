@@ -34,3 +34,4 @@ jobs:
             git add README.md
             git commit -m "🤖 chore: update stars count [skip ci]"
             git push
+            fi
