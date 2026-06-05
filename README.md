@@ -67,7 +67,7 @@ const serozr = {
 
 | Project | Description | Stars |
 |--------|-------------|-------|
-| 🔐 [**Cyber Portfolio**](https://github.com/serozr/cyber-portfolio) | Professional cybersecurity portfolio website showcasing projects and skills | ⭐ 53 |
+| 🔐 [**Cyber Portfolio**](https://github.com/serozr/cyber-portfolio) | Professional cybersecurity portfolio website showcasing projects and skills | ⭐ 55 |
 
 </div>
 
