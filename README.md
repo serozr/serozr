@@ -16,9 +16,9 @@
 
 ---
 
-## 🖥️ \`whoami\`
+## 🖥️ `whoami`
 
-\`\`\`typescript
+```typescript
 const serozr = {
   role: "Full Stack Developer & Security Researcher",
   location: "🌍 Remote",
@@ -36,7 +36,7 @@ const serozr = {
   funFact:      "I find bugs in systems before the bad guys do 🐛",
   openToWork:   true,
 };
-\`\`\`
+```
 
 ---
 
@@ -106,7 +106,7 @@ const serozr = {
 
 ## 🎯 Current Focus
 
-\`\`\`bash
+```bash
 $ cat current_goals.txt
 
 [✅] Building open-source security tools
@@ -114,7 +114,7 @@ $ cat current_goals.txt
 [🔄] Cloud security certifications (AWS/GCP)
 [🔄] Contributing to bug bounty programs
 [⏳] Writing technical security blog posts
-\`\`\`
+```
 
 ---
 
